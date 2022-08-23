@@ -6,5 +6,5 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on RandomX
-- 🌱 I’m currently learning IN Secandory School 
+- 🌱 I’m currently learning IN Secondary School 
 
